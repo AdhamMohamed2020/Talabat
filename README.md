@@ -13,15 +13,23 @@
 * **Redis.**
   
 ## Features
-- **Account Creation & Secure Login:** users can create accounts using ASP.NET Identity for secure login and authentication.
-* **Token-Based Authentication by using JWT.** 
-- **Product Browsing:** users can browse available products on the platform.
-* **Create Purchasing Basket:** allows users to create a shopping basket containing the products they want to purchase before proceeding to checkout.
-- **Order Placement:** users can place orders for products they wish to buy. 
-* **Secure Payment Integration:** Stripe integration allows users to make secure payments for their orders.
-- **Database Integration:** utilizes Entity Framework Core to store and manage product data, user information, and orders.
-* **Redis Caching:** implements Redis for caching data to enhance performance and reduce database load.
-- **Exception Handling:** provides centralized error handling to manage application errors.
+ **1- Account Creation & Secure Login:** users can create accounts using ASP.NET Identity for secure login and authentication.
+ 
+ **2- Token-Based Authentication by using JWT.** 
+ 
+ **3- Product Browsing:** users can browse available products on the platform.
+ 
+ **4- Create Purchasing Basket:** allows users to create a shopping basket containing the products they want to purchase before proceeding to checkout.
+ 
+ **5- Order Placement:** users can place orders for products they wish to buy. 
+ 
+ **6- Secure Payment Integration:** Stripe integration allows users to make secure payments for their orders.
+ 
+ **7- Database Integration:** utilizes Entity Framework Core to store and manage product data, user information, and orders.
+ 
+ **8- Redis Caching:** implements Redis for caching data to enhance performance and reduce database load.
+ 
+ **9- Exception Handling:** provides centralized error handling to manage application errors.
 
 ## Used technologies:
 **1- Authentication and Authorization.**
