@@ -2,7 +2,7 @@
 # Talabat
 
 ## Description
-**Talabat** is an e-commerce platform for buying and selling products, where users can browse items, create accounts using Identity for secure login, and complete purchases. It allows users to place orders and make payments securely through Stripe.
+**Talabat** is an e-commerce Api for buying and selling products, where users can browse items, create accounts using Identity for secure login, and complete purchases. It allows users to place orders and make payments securely through Stripe.
 
 ## Prerequisites
 - **.NET SDK 8.0.**
